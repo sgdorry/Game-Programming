@@ -1,3 +1,13 @@
+/**
+* Author: Steven Dorry
+* Assignment: Blackout Delivery
+* Date due: April 24, 2026, 2:00pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
+
 #include "raylib.h"
 #include <vector>
 #include "Entity.h"
